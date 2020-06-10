@@ -1,0 +1,31 @@
+spring:
+  application:
+    name: mima-cloud-eureka-ha
+  profiles:
+    active: server1
+---
+server:
+  port: 8762
+spring:
+  profiles: server1
+eureka:
+  instance:
+    hostname: server1
+    prefer-ip-address: true
+    instance-id: ${spring.application.name}:${server.port}
+  client:
+    serviceUrl:
+      defaultZone: http://server2:8763/eureka/
+---
+server:
+  port: 8763
+spring:
+  profiles: server2
+eureka:
+  instance:
+    hostname: server2
+    prefer-ip-address: true
+    instance-id: ${spring.application.name}:${server.port}
+  client:
+    serviceUrl:
+      defaultZone: http://server1:8762/eureka/

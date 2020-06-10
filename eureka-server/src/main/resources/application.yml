@@ -1,0 +1,17 @@
+server:
+  port: 8761
+
+eureka:
+  instance:
+    hostname: server1
+  client:
+    registerWithEureka: true #是否将自己注册到Eureka服务中，本身就是所有无需注册
+    fetchRegistry: true #是否从Eureka中获取注册信息
+    serviceUrl:
+      defaultZone: http://server2:8762/eureka/
+
+
+
+spring:
+  application:
+    name: eurka-server

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5525b4f2-9462-4be5-abf0-bdfcd7916049" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\ideaSpace\SpringTest\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/ideaMaven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\ideaMaven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d51i87Py5a5mmZTBwlUnq2zsca" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15234375" />
+    <property name="project.structure.side.proportion" value="0.48505747" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaSpace\SpringTest\eureka-server\src\main\resources" />
+      <recent name="D:\ideaSpace\SpringTest\eureka-server1\src\main\resources" />
+      <recent name="D:\ideaSpace\SpringTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaServerApplication (1)">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="SpringCloudTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="SpringCloudTest" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurakeClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.EurakeClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaclient.EurekaClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaserver1.EurekaServer1Application" />
+      <option name="ENABLE_JMX_AGENT" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaserver.EurekaServerApplication" />
+      <option name="ENABLE_JMX_AGENT" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurakeClientApplication" />
+      <item itemvalue="Spring Boot.EurekaClientApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication (1)" />
+      <item itemvalue="Spring Boot.EurekaServer1Application" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\monster\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5525b4f2-9462-4be5-abf0-bdfcd7916049" name="Default Changelist" comment="" />
+      <created>1591700266521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591700266521</updated>
+      <workItem from="1591700276618" duration="3602000" />
+      <workItem from="1591703911717" duration="1967000" />
+      <workItem from="1591705904504" duration="2764000" />
+      <workItem from="1591709417737" duration="1481000" />
+      <workItem from="1591710942523" duration="1995000" />
+      <workItem from="1591786470326" duration="732000" />
+      <workItem from="1591787989521" duration="949000" />
+    </task>
+    <task id="LOCAL-00001" summary="springcloud 提交代码  eureka 模拟高可用">
+      <created>1591788116768</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591788116768</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="springcloud 提交代码  eureka 模拟高可用" />
+    <option name="LAST_COMMIT_MESSAGE" value="springcloud 提交代码  eureka 模拟高可用" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="622" y="159" key="#Project_Structure" timestamp="1591788954130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="622" y="159" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1591788954130" />
+    <state x="527" y="303" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591712609611">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="527" y="303" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591712609611" />
+    <state x="853" y="353" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1591711485196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="853" y="353" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591711485196" />
+    <state x="549" y="114" width="974" height="812" key="CommitChangelistDialog2" timestamp="1591789001409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="549" y="114" width="974" height="812" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591789001409" />
+    <state x="706" y="252" key="FileChooserDialogImpl" timestamp="1591788400583">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="706" y="252" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591788400583" />
+    <state x="819" y="394" width="273" height="218" key="Github.ShareDialog" timestamp="1591788901038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="819" y="394" width="273" height="218" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591788901038" />
+    <state x="713" y="203" width="521" height="589" key="Github.UntrackedFilesDialog" timestamp="1591788936490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="203" width="521" height="589" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591788936490" />
+    <state width="1395" height="291" key="GridCell.Tab.0.bottom" timestamp="1591712939334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1395" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591712939334" />
+    <state width="1395" height="291" key="GridCell.Tab.0.center" timestamp="1591712939334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1395" height="291" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591712939334" />
+    <state width="1395" height="291" key="GridCell.Tab.0.left" timestamp="1591712939333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1395" height="291" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591712939333" />
+    <state width="1395" height="291" key="GridCell.Tab.0.right" timestamp="1591712939334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1395" height="291" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591712939334" />
+    <state width="1396" height="291" key="GridCell.Tab.1.bottom" timestamp="1591710908959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1396" height="291" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591710908959" />
+    <state width="1396" height="291" key="GridCell.Tab.1.center" timestamp="1591710908959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1396" height="291" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591710908959" />
+    <state width="1396" height="291" key="GridCell.Tab.1.left" timestamp="1591710908958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1396" height="291" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591710908958" />
+    <state width="1396" height="291" key="GridCell.Tab.1.right" timestamp="1591710908959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1396" height="291" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591710908959" />
+    <state x="342" y="151" key="SettingsEditor" timestamp="1591706399137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591706399137" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1591787199287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591787199287" />
+    <state x="711" y="324" key="com.intellij.ide.util.TipDialog" timestamp="1591786508235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="324" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591786508235" />
+    <state x="523" y="250" key="new project wizard" timestamp="1591708490843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="523" y="250" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1591708490843" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1591706288996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591706288996" />
+    <state x="790" y="311" key="svn.repositoryBrowser" timestamp="1591788406906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="311" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1591788406906" />
+    <state x="728" y="224" width="464" height="532" key="svn4idea.import.options" timestamp="1591788403801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="224" width="464" height="532" key="svn4idea.import.options/0.0.1920.1040@0.0.1920.1040" timestamp="1591788403801" />
+  </component>
+</project>
